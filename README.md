@@ -97,22 +97,12 @@ portfolio/
 ![Desktop Homepage](https://drive.google.com/uc?export=view&id=161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG)
 *Homepage with hero section and navigation*
 
-![Desktop Education](screenshots/desktop-education.png)
-*Education timeline section*
+![Desktop Homepage]([https://drive.google.com/uc?export=view&id=161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG](https://drive.google.com/file/d/1D3VrYDeVvushPsauDh2ftiI2rW1gnD51/view?usp=sharing))
+*Homepage with hero section and navigation*
+### 🎥 Demo Video
 
-![Desktop Services](screenshots/desktop-services.png)
-*Services showcase section*
+[![Watch the demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
 
-### Mobile View
-![Mobile Homepage](screenshots/mobile-home.png)
-*Responsive mobile homepage*
-
-![Mobile Menu](screenshots/mobile-menu.png)
-*Mobile navigation menu*
-
-## 🎥 Demo Video
-
-[![Portfolio Demo](video-thumbnail.png)](demo-video.mp4)
 *Click to watch the full portfolio demonstration*
 
 ### Video Highlights:
