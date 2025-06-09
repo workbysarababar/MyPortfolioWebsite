@@ -114,7 +114,7 @@ portfolio/
 
 ## 🌐 Live Demo
 
-Visit the live website: [Sara Babar Portfolio](https://your-portfolio-url.com)
+Visit the live website: [Sara Babar Portfolio](https://workbysarababar.github.io/MyPortfolioWebsite/)
 
 ## 📱 Responsive Design
 
@@ -126,11 +126,9 @@ The website is fully responsive and tested on:
 
 ## 🔗 Social Links
 
-- **LinkedIn**: [sara-babar-1024jk](https://www.linkedin.com/in/sara-babar-1024jk)
-- **GitHub**: [Your GitHub Profile]
-- **Facebook**: [Your Facebook Profile]
-- **Instagram**: [Your Instagram Profile]
-
+- **LinkedIn**: [Sara Babar]([https://www.linkedin.com/in/sara-babar-1024jk](https://www.linkedin.com/in/sarababarr/))
+- **GitHub**: [Sara Babar](https://github.com/workbysarababar)
+  
 ## 🚀 Performance Features
 
 - **Fast Loading**: Optimized images and minimal dependencies
@@ -161,9 +159,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📧 Contact
 
 **Sara Babar**
-- LinkedIn: [@sara-babar-1024jk](https://www.linkedin.com/in/sara-babar-1024jk)
-- Email: your.email@example.com
-- Portfolio: [Live Website Link]
+- LinkedIn: [@Sara Babar](https://www.linkedin.com/in/sarababarr/)
+- Email: workbysarababar@gmail.com
+- Portfolio: [Website](https://workbysarababar.github.io/MyPortfolioWebsite/)
 
 ---
 
