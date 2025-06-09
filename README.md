@@ -94,7 +94,7 @@ portfolio/
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Homepage](https://drive.google.com/file/d/161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG/view?usp=drive_link)
+![Desktop Homepage](https://drive.google.com/uc?export=view&id=161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG)
 *Homepage with hero section and navigation*
 
 ![Desktop Education](screenshots/desktop-education.png)
