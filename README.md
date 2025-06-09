@@ -97,13 +97,14 @@ portfolio/
 ![Desktop Homepage](https://drive.google.com/uc?export=view&id=161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG)
 *Homepage with hero section and navigation*
 
-![Desktop Homepage]([https://drive.google.com/uc?export=view&id=161EsauyvKcfoaI_2WK0G8ug2L-zFKoaG](https://drive.google.com/file/d/1D3VrYDeVvushPsauDh2ftiI2rW1gnD51/view?usp=sharing))
-*Homepage with hero section and navigation*
+![Desktop Homepage](https://drive.google.com/uc?export=view&id=1D3VrYDeVvushPsauDh2ftiI2rW1gnD51)
+
 ### 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the demo](https://drive.google.com/uc?export=view&id=1D3VrYDeVvushPsauDh2ftiI2rW1gnD51)](https://drive.google.com/file/d/1nIRzo33jzp2Z9X0TO_gHS5DzzL-XcCJ2/view?usp=sharing)
 
-*Click to watch the full portfolio demonstration*
+*Click the image above to watch the demo video on Google Drive*
+
 
 ### Video Highlights:
 - Navigation functionality
